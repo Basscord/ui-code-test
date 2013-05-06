@@ -1,0 +1,40 @@
+@font-face {
+	font-family: "Gloriola";
+	src: url("../fonts/gloriola.eot");
+	src: url("../fonts/gloriola.eot?#iefix") format("embedded-opentype"),
+		 url("../fonts/gloriola.woff") format("woff"),
+		 url("../fonts/gloriola.ttf") format("truetype"),
+		 url("../fonts/gloriola.svg#Gloriola") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: "GloriolaLight";
+	src: url("../fonts/gloriola-l.eot");
+	src: url("../fonts/gloriola-l.eot?#iefix") format("embedded-opentype"),
+		 url("../fonts/gloriola-l.woff") format("woff"),
+		 url("../fonts/gloriola-l.ttf") format("truetype"),
+		 url("../fonts/gloriola-l.svg#GloriolaLight") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: "ProximaNovaBold";
+	src: url("../fonts/proximanova-b.eot");
+	src: url("../fonts/proximanova-b.eot?#iefix") format("embedded-opentype"),
+		 url("../fonts/proximanova-b.woff") format("woff"),
+		 url("../fonts/proximanova-b.ttf") format("truetype"),
+		 url("../fonts/proximanova-b.svg#ProximaNovaBold") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: "ProximaNova";
+	src: url("../fonts/proximanova.eot");
+	src: url("../fonts/proximanova.eot?#iefix") format("embedded-opentype"),
+		 url("../fonts/proximanova.woff") format("woff"),
+		 url("../fonts/proximanova.ttf") format("truetype"),
+		 url("../fonts/proximanova.svg#ProximaNova") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}

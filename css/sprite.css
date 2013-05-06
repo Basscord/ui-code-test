@@ -1,0 +1,85 @@
+	
+	/* TODO: some of this isn't sprite related at all. */
+
+	article .features li:before, 
+	header h1 a, 
+	.icons .mail,
+	.icons .sync,
+	.icons .lock,
+	.icons .high-five,
+	.icons .follow-up,
+	.sign-in button span:before 
+	{
+		background: url('../img/icons-as-sprite.png') no-repeat;
+	}
+
+	article .features li {
+		position: relative;
+	}
+
+	article .features li:before {
+		content: "";
+		display: block;
+		position: absolute;
+		background-position: 0 -66px;
+		height: 12px;
+		width: 16px;
+		left: -25px;
+		top: 9px;
+	}
+
+	header h1 a {
+	
+		background-position: 0 -41px;
+		
+		height: 25px;
+		width: 131px;
+
+		text-indent: -9999px;
+		text-align: left;
+		overflow: hidden;
+		
+		display:block;
+	}
+
+	.icons .follow-up {
+		background-position: -88px 0;
+		height: 31px;
+		width: 39px;
+	}
+
+	.icons .high-five {
+		background-position: -66px -66px;
+		height: 40px;
+		width: 46px;
+	}
+
+	.icons .lock {
+		background-position: 0 0;
+		height: 37px;
+		width: 26px;
+	}
+
+	.icons .mail {
+		background-position: 0 -106px;
+		height: 24px;
+		width: 39px;
+	}
+
+	.icons-social-facebook {
+		background-position: -16px -66px;
+		height: 21px;
+		width: 23px;
+	}
+
+	.icons-social-google {
+		background-position: -39px -66px;
+		height: 22px;
+		width: 27px;
+	}
+
+	.icons .sync {
+		background-position: -55px 0;
+		height: 41px;
+		width: 33px;
+	}

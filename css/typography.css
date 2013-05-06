@@ -1,0 +1,52 @@
+	
+	html {
+		/* Photoshop specifies 14px Helvetica Neue */
+		font-family: sans-serif;
+		font-size:13px; 
+		color:#5a5969;
+	}
+
+	strong, b {
+		font-weight: bold;
+	}
+
+	header h1 {
+		text-indent: -9999px;
+	}
+
+	header nav {
+		font-family: "ProximaNovaBold"
+	}
+
+	.modal label {
+		font-family: "ProximaNovaBold";
+		text-transform:uppercase;
+	}
+
+	header nav a {
+		line-height: 100px;
+		text-decoration: none;
+		color: #5a5969;
+		font-size: 1em;
+		text-transform: uppercase;
+	}
+
+	.modal h1 {
+		font-family: 'GloriolaLight', sans-serif;
+		font-size: 48px;
+		font-weight: lighter;
+	}
+
+	.modal h2 {
+		font-family: 'GloriolaLight', sans-serif;
+		font-size: 36px;
+		font-weight: lighter;
+	}
+	
+	section.hero h2 {
+		font-family: 'GloriolaLight', sans-serif;
+		font-size: 36px;
+		font-weight: lighter;
+		color: #fff;
+		text-shadow: 0 1px 1px rgba(0, 0, 0, 0.25);
+	}
