@@ -223,7 +223,7 @@
 		}
 	}
 	
-	@media (max-height: 400px) {
+	@media (max-height: 320px) {
 
 		.modal .box {
 			max-width: 290px;
