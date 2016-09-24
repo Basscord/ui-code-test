@@ -1,0 +1,23 @@
+{
+  "name": "ui-code-test",
+  "version": "1.0.0",
+  "description": "UI code test",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Basscord/ui-code-test.git"
+  },
+  "author": "Brian Mau",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Basscord/ui-code-test/issues"
+  },
+  "homepage": "https://github.com/Basscord/ui-code-test#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
